@@ -1,5 +1,3 @@
-import os
-
 import pytest
 
 from cleo.commands.command import Command
